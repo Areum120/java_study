@@ -15,6 +15,7 @@ public class TwoDimensionArray {
             }
             System.out.println();//두줄씩 띄우기
             }
+
         }
     }
 
