@@ -11,7 +11,6 @@ public class CarFactoryTest {
         System.out.println(mySonata.getCarNum());
         System.out.println(yourSonata.getCarNum());
 
-
     }
 
 

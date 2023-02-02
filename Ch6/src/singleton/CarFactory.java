@@ -1,8 +1,8 @@
 package singleton;
 
-public class CarFactory {
+public class CarFactory {//한번 지어놓고 car를 계속해서 찍어내고 생성
 
-    private static CarFactory Instance = new CarFactory();//유일한 인스턴스 생성성
+    private static CarFactory Instance = new CarFactory();//유일한 인스턴스 생성
 
     private CarFactory(){
     }
