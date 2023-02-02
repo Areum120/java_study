@@ -30,7 +30,7 @@ public class Q5 {
                     for (j = 0; j <= (i - (n/2)); j++) {
                         System.out.print(" ");
                     }
-                    for (j = 1; j <= ((-2*i) + (2*n+1)); j++) {
+                    for (j = 1; j <= (-2*i + (2*n+1)); j++) {
                         System.out.print("*");
                     }
                 }
