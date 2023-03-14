@@ -8,6 +8,7 @@ public class Student {
     String name;
     ArrayList<Subject> subjectlist;//수강 과목 목록 arraylist 선언
 
+
     //입력받는 생성자
     public Student(int studentID, String name){
         this.studentID = studentID;
